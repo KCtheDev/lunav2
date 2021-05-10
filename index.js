@@ -92,7 +92,7 @@ const colorarray = [
             message.channel.send("An error encountered: " + e);
         });
     // Login
-client.login("ODMyODY3MTA5MDQ1MjcyNjE2.YHqB8A.uRL4k_dJd_01OW1p2tcaqKjWyq0")
+client.login("ODMyODY3MTA5MDQ1MjcyNjE2.YHqB8A.i8IPN2Cc48ouihRN2lBBBC7z_U4")
 client.on(`ready`, function () {
 client.user.setActivity(`KC#5309`, { type: 'WATCHING' })
 console.log(`${client.user.tag} Online!`)})
